@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# TypeScript build info
+tsconfig.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Environment files (keep example template)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Runtime data and local databases
+data/
+*.sqlite
+*.sqlite3
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PHP/Hostinger local secrets (if created)
+php-api/.env
+php-api/.env.local
+php-api/config.local.php
