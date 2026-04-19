@@ -37,3 +37,5 @@ Thumbs.db
 php-api/.env
 php-api/.env.local
 php-api/config.local.php
+php-api/config.php
+.env
